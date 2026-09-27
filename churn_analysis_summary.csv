@@ -1,0 +1,11 @@
+metric,value
+Rows,12.0
+Columns,7.0
+Missing cells,0.0
+Duplicate rows,0.0
+Not churned count,7.0
+Churned count,5.0
+Not churned percentage,58.33
+Churned percentage,41.67
+Majority class,0.0
+Majority baseline accuracy,0.5833
